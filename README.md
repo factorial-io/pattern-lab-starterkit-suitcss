@@ -1,10 +1,10 @@
-# Base StarterKit for Drupal
+# Minimal StarterKit for Drupal
 
-The Base StarterKit for Drupal is meant to be used as a near-blank starting point for Drupal-based projects in Pattern Lab.
+The Minimal StarterKit for Drupal is meant to be used as a near-blank starting point for Drupal-based projects in Pattern Lab.
 
 ## Requirements
 
-The Base StarterKit for Drupal requires the following PatternEngine:
+The Minimal StarterKit for Drupal requires the following PatternEngine:
 
 * `pattern-lab/patternengine-twig`: [documentation](https://github.com/pattern-lab/patternengine-php-twig#twig-patternengine-for-pattern-lab), [GitHub](https://github.com/pattern-lab/patternengine-php-twig), [Packagist](https://packagist.org/packages/pattern-lab/patternengine-twig)
 
