@@ -24,11 +24,9 @@
         "source":         "https://github.com/pattern-lab/starterkit-twig-drupal-minimal/releases"
     },
     "require": {
-        "pattern-lab/core": "0.*",
-        "pattern-lab/patternengine-twig": "~0.7",
-        "twig/twig": "1.*"
+        "pattern-lab/core": "^2.0.0",
+        "pattern-lab/patternengine-twig": "^2.0.0"
     },
-    "minimum-stability": "dev",
     "extra": {
         "patternlab": {
             "dist": {
