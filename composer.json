@@ -19,8 +19,8 @@
     }
   ],
   "support": {
-    "issues": "https://source.factorial.io/factorial/pattern-lab-starterkit-suitcss/",
-    "source": "https://source.factorial.io/factorial/pattern-lab-starterkit-suitcss/tree/master"
+    "issues": "https://github.com/factorial-io/pattern-lab-starterkit-suitcss",
+    "source": "https://github.com/factorial-io/pattern-lab-starterkit-suitcss/tree/master"
   },
   "require": {
     "pattern-lab/core": "^2.0.0",
