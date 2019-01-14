@@ -36,5 +36,8 @@
         ]
       }
     }
+  },
+  "scripts": {
+    "post-install-cmd": "yarn add suitcss-base suitcss-components-arrange suitcss-components-button suitcss-components-flex-embed suitcss-components-grid suitcss-components-test suitcss-utils-after suitcss-utils-align suitcss-utils-before suitcss-utils-display suitcss-utils-flex suitcss-utils-layout suitcss-utils-link suitcss-utils-position suitcss-utils-size suitcss-utils-text"
   }
 }
