@@ -12,7 +12,6 @@ The SUIT CSS StarterKit requires the following PatternEngine:
 
 This StarterKit can be installed via one of the following commands:
 
-    php core/console --starterkit --init
     php core/console --starterkit --install factorial-io/pattern-lab-starterkit-suitcss
 
 and to download npm packages run
